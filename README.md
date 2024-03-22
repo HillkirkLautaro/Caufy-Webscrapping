@@ -2,6 +2,9 @@
 
 
 Agregar una foto
+
+Se extraen los datos de Mercado Libre. 
+
 Descripción corta del proyecto.
 
 ## Requisitos
