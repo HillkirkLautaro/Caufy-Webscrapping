@@ -22,8 +22,9 @@ El objetivo de este proyecto es extraer datos de precios y nombres de productos 
 
 ## Uso
 
-Una vez que se encuentre preparado el ambiente puede ejecutar el script y se creará un archivo ".csv". 
+Una vez que se encuentre preparado el ambiente puede ejecutar el script y se creará un archivo ".csv". Este mismo es una tabla con el nombre y el precio de los productos de una pagina de caufy.
 
 ## Mejoras
 
+Completar el web scrapping de todos las páginas (10 en total). Ya sea de forma manual o crear un script que automatice el trabajo.
 Realizar un análisis de los datos extraídos.
