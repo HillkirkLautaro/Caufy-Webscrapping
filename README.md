@@ -1,6 +1,6 @@
 # Caufy Web Scraping de Precio y Nombre
 
-![Agregar una foto](url_de_la_imagen)
+![](https://www.google.com/imgres?q=caufy&imgurl=https%3A%2F%2Fcaufy.com.ar%2Fwp-content%2Fuploads%2F2023%2F07%2FCAUFY-Logo-Google-Play-Store-Graphic-1024x500-1.png&imgrefurl=https%3A%2F%2Fcaufy.com.ar%2F&docid=FANi7SKwZCYxeM&tbnid=jDMjyOwgrPPuKM&vet=12ahUKEwib5vXi7bKFAxXMrJUCHXaWDOQQM3oECGQQAA..i&w=1024&h=500&hcb=2&ved=2ahUKEwib5vXi7bKFAxXMrJUCHXaWDOQQM3oECGQQAA)
 
 Este proyecto extrae datos de Caufy.
 
