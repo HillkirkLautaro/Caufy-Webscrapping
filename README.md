@@ -5,7 +5,7 @@ Caufy es uno de los mas reconocidos Proveedor Dropshipping en Argentina.
 ### Puedes encontrarlos en
 [![Icono de YouTube](https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg)](https://www.youtube.com/@caufyok)
 
-## Descripción corta del proyecto
+## Descripción del proyecto
 
 El objetivo de este proyecto es extraer datos de precios y nombres de productos de Caufy utilizando web scraping con BeautifulSoup en Python.
 
