@@ -1,28 +1,28 @@
-# Mercado-Libre-s-Best-Sellers-Argentina-
+# Caufy Web Scraping de Precio y Nombre
 
+![Agregar una foto](url_de_la_imagen)
 
-Agregar una foto
+Este proyecto extrae datos de Caufy.
 
-Se extraen los datos de Mercado Libre. 
+## Descripción corta del proyecto
 
-Descripción corta del proyecto.
+El objetivo de este proyecto es extraer datos de precios y nombres de productos de Caufy utilizando web scraping con BeautifulSoup en Python.
 
 ## Requisitos
 
-BeautifulSoup (Python). Con esta herramienta podremos minar los datos de mercado libre.
+- Python (preferiblemente Python 3.x)
+- BeautifulSoup (instalable a través de pip)
 
 ## Instalación
 
-Proporcionar instrucciones detalladas sobre cómo instalar el proyecto y todas sus dependencias.
+1. **Python**: Si no tienes instalado Python en tu sistema, descárgalo e instálalo desde [python.org](https://www.python.org/).
+
+2. **BeautifulSoup**: Puedes instalar BeautifulSoup usando pip. Abre tu terminal (en Windows) o línea de comandos (en MacOS y Linux) y ejecuta pip install beautifulsoup4
 
 ## Uso
 
-Explicar cómo utilizar el proyecto una vez instalado. Incluye ejemplos si es posible.
+Una vez que se encuentre preparado el ambiente puede ejecutar el script y se creará un archivo ".csv". 
 
+## Mejoras
 
-## Créditos
-
-###################
-## Licencia
-
-Indica bajo qué licencia se distribuye tu proyecto.
+Realizar un análisis de los datos extraídos.
